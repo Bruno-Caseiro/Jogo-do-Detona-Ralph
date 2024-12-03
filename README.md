@@ -1,4 +1,4 @@
-# Bem-vindo ao JSGame Detona Ralph!
+# Bem-vindo ao Jogo do Detona Ralph!
 
 Neste repositório, apresentamos um jogo empolgante inspirado no icônico filme "Detona Ralph". Este projeto não é apenas uma fonte de diversão, mas também uma vitrine de técnicas avançadas para criação de jogos utilizando JavaScript.
 
